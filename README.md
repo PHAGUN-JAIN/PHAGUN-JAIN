@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📈 **Github Stats:**
 <img src="https://github-readme-stats.vercel.app/api?username=PHAGUN-JAIN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[![trophy](https://github-profile-trophy.vercel.app/?username=PHAGUN-JAIN=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ **Languages & Tools:**
 
