@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-### This is PHAGUN-JAIN, A DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE
+### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE
 
 🌱 I’m currently learning Back-end development with Node.js<br>
 
