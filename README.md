@@ -1,9 +1,14 @@
-### Hi there! 👋
+### Hi there! 👋 
+### This is PHAGUN-JAIN, A DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE
 
 🌱 I’m currently learning Back-end development with Node.js<br>
+
 👯 I’m looking to collaborate on Web-Development Projects<br>
+
 💬 Ask me about DevOps,Backend Devlopment OR Anything :)<br>
+
 📫 How to reach me:<a href="https://www.linkedin.com/in/phagun-jain-88b532190/"> @LINKEDIN</a><br>
+
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
 
 
