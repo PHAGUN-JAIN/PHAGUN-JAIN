@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 ### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/143vPc6b08locw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fail-code-boat-143vPc6b08locw">via GIPHY</a></p>
+<img src="https://giphy.com/embed/143vPc6b08locw" width="100%" height="100%" style="position:absolute" >
 
 🌱 I’m currently learning Back-end development with Node.js<br>
 
