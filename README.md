@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 ### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE
-<img align-items="right"src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
+<img align-items="right" src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
 🌱 I’m currently learning Back-end development with Node.js<br>
 
