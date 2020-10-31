@@ -8,7 +8,7 @@
 
 💬 Ask me about DevOps,Backend Devlopment OR Anything :)<br>
 
-📫 How to reach me:<a href="https://www.linkedin.com/in/phagun-jain-88b532190/">Phagun-Jain</a><br><a href="https://dev.to/phagunjain">
+📫 How to reach me:<a href="https://dev.to/phagunjain">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" height="30" width="30">
 </a>
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
