@@ -12,7 +12,6 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" height="27" width="34"></a>
   <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="27"  width="30" /></a>
-  
   ## <a href="https://phagun-jain.blogspot.com/">My Blog</a> <br>
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
 
