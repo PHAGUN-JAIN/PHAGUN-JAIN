@@ -2,8 +2,10 @@
  <a href="https://dev.to/phagunjain">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" height="27" width="34"></a> 
  <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
-    <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a><img  alt=""src="https://visitor-badge.glitch.me/badge?page_id=PHAGUN-JAIN" style="max-width:100%;">
-
+    <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a><a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=PHAGUN-JAIN"></a>
+ <a href="https://discord.gg/jFPtZFmnvq" rel="nofollow">
+  <img alt="Phagun's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left">
+</a>
 ### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE 
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
