@@ -14,7 +14,8 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="27"  width="30" /></a>
   
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) Thanks for checking in here!
 
 <!--
 **PHAGUN-JAIN/PHAGUN-JAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
