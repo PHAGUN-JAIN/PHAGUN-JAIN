@@ -1,6 +1,5 @@
 ### Hi there! 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)  
-  <a href="https://dev.to/phagunjain">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)  <a href="https://dev.to/phagunjain">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" height="27" width="34"></a>
   <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
     <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
