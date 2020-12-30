@@ -1,4 +1,8 @@
-### Hi there! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)   
+### Hi there! 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)   <a href="https://dev.to/phagunjain">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" height="27" width="34"></a>
+  <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="27"  width="30" /></a>
 ### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
@@ -7,15 +11,9 @@
 👯 I’m looking to collaborate on Web-Development Projects<br>
 
 💬 Ask me about DevOps,Backend Devlopment OR Anything :)<br>
-
-📫 How to reach me:<a href="https://dev.to/phagunjain">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" height="27" width="34"></a>
-  <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="27"  width="30" /></a>
   
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)   
+   
 
 <!--
 **PHAGUN-JAIN/PHAGUN-JAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
