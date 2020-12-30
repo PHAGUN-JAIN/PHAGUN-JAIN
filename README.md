@@ -1,4 +1,4 @@
-### Hi there! 👋 
+### Hi there! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)   
 ### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
@@ -15,7 +15,7 @@
   
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) Thanks for checking in here!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)   
 
 <!--
 **PHAGUN-JAIN/PHAGUN-JAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
