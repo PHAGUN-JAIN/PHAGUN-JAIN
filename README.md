@@ -4,7 +4,7 @@
  <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
     <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
-### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE
+### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE <br>
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
 🌱 I’m currently learning Back-end development with Node.js<br>
