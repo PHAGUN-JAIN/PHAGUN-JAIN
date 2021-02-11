@@ -40,7 +40,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN&theme=dracula">
 
-<img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PHAGUN-JAIN&layout=compact&theme=blue-green">
+<img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PHAGUN-JAIN&layout=compact&theme=blue-green" width="50%">
 
 ## 🛠️ **Languages & Tools:**
 
