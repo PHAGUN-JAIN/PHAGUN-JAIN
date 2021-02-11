@@ -35,13 +35,12 @@ https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 --
 ## 📈 **Github Stats:**
-<img align="left" width=45% height=220px src="https://github-readme-stats.vercel.app/api?username=PHAGUN-JAIN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img display="inline" width=45% height=200px src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PHAGUN-JAIN&layout=compact&theme=blue-green">
 
+<img align="left" width=45% height=220px src="https://github-readme-stats.vercel.app/api?username=PHAGUN-JAIN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN&theme=dracula" width=70% align="centre" display="inline" margin-left="50px">
+<img display="inline" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PHAGUN-JAIN&layout=compact&theme=blue-green">
 
-
-
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN&theme=dracula" width=70% align="centre">
 
 ## 🛠️ **Languages & Tools:**
 
