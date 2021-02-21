@@ -49,7 +49,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN&theme=dracula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHAGUN-JAIN&theme=dracula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+```
 ## 🛠️ **Languages & Tools:**
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -62,3 +62,4 @@ https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
+```
