@@ -48,7 +48,9 @@ https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
 --
 ## 📈 **Github Stats:**
 <p>
+    <a href="">
 <img src="https://github-readme-stats.vercel.app/api?username=PHAGUN-JAIN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+    </a>
 </p>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN&theme=dracula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
