@@ -10,7 +10,7 @@
 </p>
 </article>
 
-### This is PHAGUN-JAIN, a DevOps-Enthusiast currently getting hands wet into OPEN-SOURCE 
+### This is PHAGUN-JAIN, a DevOps-enthusiast currently getting hands wet in OPEN-SOURCE 
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
 🌱 I’m currently learning Back-end development with Node.js<br>
