@@ -61,7 +61,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-powershell-informational?style=flat&logo=windows-cli&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=htmlt&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
