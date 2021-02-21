@@ -1,5 +1,5 @@
 ### Hi there! 👋
-> <a href="https://dev.to/phagunjain">
+<a href="https://dev.to/phagunjain">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" width="22px" align="left"></a>
  <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
     <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
