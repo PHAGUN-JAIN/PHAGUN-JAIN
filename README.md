@@ -49,7 +49,9 @@ https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN&theme=dracula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHAGUN-JAIN&theme=dracula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 ```
+
 ## 🛠️ **Languages & Tools:**
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
