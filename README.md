@@ -1,14 +1,4 @@
 ## *Hi there! 👋*
-<article>
-<p>
-<a href="https://dev.to/phagunjain">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" width="22px" align="left"></a>
- <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
-    <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
- <a href="https://discord.gg/jFPtZFmnvq" rel="nofollow">
-  <img alt="Phagun's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a><br>
-</p>
-</article>
 
 ### This is PHAGUN-JAIN, a DevOps-enthusiast currently getting hands wet in OPEN-SOURCE 
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
@@ -20,7 +10,17 @@
 💬 Ask me about DevOps,Backend Devlopment OR Anything :)<br>
   
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
-   
+   <br>
+ <article>
+<p>
+<a href="https://dev.to/phagunjain">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" width="22px" align="left"></a>
+ <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
+    <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
+ <a href="https://discord.gg/jFPtZFmnvq" rel="nofollow">
+  <img alt="Phagun's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a><br>
+</p>
+</article>
 
 <!--
 **PHAGUN-JAIN/PHAGUN-JAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
