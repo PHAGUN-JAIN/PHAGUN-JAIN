@@ -12,11 +12,13 @@
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
    <br>
  <article>
+  <p>How to reach me : </p>
 <p>
-<a href="https://dev.to/phagunjain">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" width="22px" align="left"></a>
+
  <a href="https://in.linkedin.com/in/phagun-jain-88b532190">
     <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left"></a>
+<a href="https://dev.to/phagunjain">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Profile" width="22px" align="left"></a>
  <a href="https://discord.gg/jFPtZFmnvq" rel="nofollow">
   <img alt="Phagun's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" align="left"></a><br>
 </p>
