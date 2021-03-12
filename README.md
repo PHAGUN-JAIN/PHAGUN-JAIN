@@ -1,3 +1,5 @@
+<img src="https://github.com/PHAGUN-JAIN/PHAGUN-JAIN/blob/main/Simple%20Technology%20LinkedIn%20Banner.svg">
+
 ## *Hi there! 👋*
 
 ### This is PHAGUN-JAIN, a DevOps-enthusiast currently getting hands wet in OPEN-SOURCE 
