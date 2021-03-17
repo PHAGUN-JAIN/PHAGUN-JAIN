@@ -14,7 +14,7 @@
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
    <br>
 
-### 📫 How to reach me:
+### *📫 How to reach me:* 
 
 <a href="https://in.linkedin.com/in/phagun-jain-88b532190" >
     <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px"></a>
