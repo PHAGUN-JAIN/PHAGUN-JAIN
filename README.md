@@ -67,13 +67,10 @@ https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
 ![](https://img.shields.io/badge/Shell-powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=htmlt&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
