@@ -2,7 +2,7 @@
 
 ## *Hi there! 👋*
 
-### This is PHAGUN-JAIN, a DevOps-enthusiast currently getting hands wet in OPEN-SOURCE 
+### This is PHAGUN-JAIN, a 2nd yr undergrad student currently getting hands wet in OPEN-SOURCE
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
 🌱 I’m currently learning Back-end development with Node.js<br>
@@ -22,29 +22,6 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Community Profile" height="26" width="26" ></a>
 <a href="#"><img alt="Phagun's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" ></a><br>   
 
-
-<!--
-**PHAGUN-JAIN/PHAGUN-JAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## <a href="https://phagun-jain.blogspot.com/">My Blog</a> <br>
-Here are some ideas to get you started:
-
-https://github-readme-streak-stats.herokuapp.com/?user=PHAGUN-JAIN
-
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 --
 ## 📈 **Github Stats:**
