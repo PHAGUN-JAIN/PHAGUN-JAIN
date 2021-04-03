@@ -44,8 +44,8 @@
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
 
 
-
-## 📈 **Github Stats:**
+<details>
+  <summary> <b>📈 Github Stats:</b></summary>
 <p>
     <a href="">
 <img src="https://github-readme-stats.vercel.app/api?username=PHAGUN-JAIN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -53,3 +53,4 @@
   
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHAGUN-JAIN&theme=dracula&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
+</details>
