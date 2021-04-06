@@ -1,4 +1,4 @@
-<img src="https://github.com/PHAGUN-JAIN/PHAGUN-JAIN/blob/main/Simple%20Technology%20LinkedIn%20Banner.svg">
+<img src="https://github.com/PHAGUN-JAIN/PHAGUN-JAIN/blob/main/Simple%20Technology%20LinkedIn%20Banner.png">
 
 ## *Hi there! 👋*
 
