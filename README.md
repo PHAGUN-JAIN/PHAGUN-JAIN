@@ -5,11 +5,11 @@
 ### This is PHAGUN-JAIN, a 2nd yr undergrad student currently getting hands wet in OPEN-SOURCE
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
-🌱 I’m currently learning Back-end development with Node.js<br>
+🌱 I’m currently learning Back-end development <br>
 
 👯 I’m looking to collaborate on Web-Development Projects<br>
 
-💬 Ask me about DevOps,Backend Devlopment OR Anything :)<br>
+💬 Ask me about DevOps, Backend Devlopment OR Anything :)<br>
   
 ⚡ Fun fact: ohhh I am Full Of FUN!!<br>
    <br>
