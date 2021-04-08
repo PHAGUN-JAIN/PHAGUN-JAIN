@@ -42,6 +42,8 @@
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&amp&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&amp&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&amp&logo=apache-maven&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Photoshop-05122A?style=flat&amp&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
+
 
 
 
