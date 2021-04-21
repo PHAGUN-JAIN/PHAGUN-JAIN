@@ -28,23 +28,23 @@
 
 ## 🛠️ **Languages & Tools:**
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&amp&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&amp&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-CommandPrompt-informational?style=flat&amp&logo=windows-terminal&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-powershell-informational?style=flat&amp&logo=powershell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&amp&logo=linux&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&amp&logo=windows&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp&logo=gnu-bash&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Shell-CommandPrompt-informational?style=flat&amp&logo=windows-terminal&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Shell-powershell-informational?style=flat&amp&logo=powershell&logoColor=white&color=FFD700)
 
 
-![](https://img.shields.io/badge/Code-SASS-informational?style=flat&amp&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&amp&logo=C%2B%2B&amp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&amp&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&amp&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&amp&logo=jenkins&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&amp&logo=apache-maven&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&amp&logo=selenium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Photoshop-05122A?style=flat&amp&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&amp&logo=figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&amp&logo=sass&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp&logo=javascript&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&amp&logo=C%2B%2B&amp&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&amp&logo=java&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&amp&logo=git&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&amp&logo=jenkins&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&amp&logo=apache-maven&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&amp&logo=selenium&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Tools-Photoshop-05122A?style=flat&amp&logo=adobe-photoshop&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&amp&logo=figma&logoColor=white&color=FFD700)
 
 
 
