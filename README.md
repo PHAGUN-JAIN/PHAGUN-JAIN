@@ -11,7 +11,9 @@
 
 💬 Ask me about DevOps, Backend Devlopment OR Anything :)<br>
   
-⚡ Fun fact: ohhh I am Full Of FUN!!<br>
+⚡ Fun fact:
+ &nbsp;  &nbsp;  &nbsp; &nbsp;  :unamused:  &nbsp;    A for apple B for ball     &nbsp; &nbsp; NAH! <br/>
+ &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  :relieved:  &nbsp;    A for apple B for bada apple &nbsp;&nbsp;  YASS! :yum:
    <br>
 
 ###  **📫 How to reach me:** 
