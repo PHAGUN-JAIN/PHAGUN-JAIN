@@ -62,3 +62,8 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHAGUN-JAIN&theme=dracula&&show_icons=true&title_color=F2AA4CFF&icon_color=FDD20EFF&text_color=ADEFD1FF&bg_color=151515">
 </p>
 </details>
+
+<br/>
+<br/>
+
+<b>I got a lot of request asking for how set up readme profile please feel free to fork this repo and customise according to your needs, its open and do give it a star </b>
