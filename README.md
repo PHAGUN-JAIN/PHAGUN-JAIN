@@ -66,4 +66,4 @@
 <br/>
 <br/>
 
-<b>I got a lot of request asking for how set up readme profile please feel free to fork this repo and customise according to your needs, its open and do give it a star </b>
+<b>If you like it please feel free to fork this repo and customise according to your needs, its open and do give it a star </b>
