@@ -2,7 +2,7 @@
 
 ## *Hi there! 👋*
 
-### This is PHAGUN-JAIN, a 2nd yr undergrad student currently getting hands wet in OPEN-SOURCE
+### This is PHAGUN-JAIN, a 3rd yr undergrad student currently getting hands wet in OPEN-SOURCE
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
 🌱 I’m currently learning Back-end development <br>
@@ -12,10 +12,10 @@
 💬 Ask me about DevOps, Backend Devlopment OR Anything :)<br>
   
 ⚡ Fun fact:
- &nbsp;  &nbsp;  &nbsp; &nbsp;  :unamused:  &nbsp;    A for apple B for ball     &nbsp; &nbsp; NAH! <br/>
+<!--  &nbsp;  &nbsp;  &nbsp; &nbsp;  :unamused:  &nbsp;    A for apple B for ball     &nbsp; &nbsp; NAH! <br/>
  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  :relieved:  &nbsp;    A for apple B for bada apple &nbsp;&nbsp;  YASS! :yum:
    <br>
-   <br>
+   <br> -->
   &nbsp; &nbsp; &nbsp;  want to see best website on web [visit here](https://best-website-on-web.happylittletoad.repl.co/)
   &nbsp; &nbsp; &nbsp;  [what is this website?](https://www.google.com/search?client=firefox-b-d&q=what+is+rickrolling)
 ###  **📫 How to reach me:** 
@@ -67,5 +67,3 @@
 
 <br/>
 <br/>
-
-<b>If you like it please feel free to fork this repo and customise according to your needs </b>
