@@ -1,5 +1,6 @@
 <img src="https://github.com/PHAGUN-JAIN/PHAGUN-JAIN/blob/main/Simple%20Technology%20LinkedIn%20Banner.png">
 
+
 ## *Hi there! 👋*
 
 ### This is PHAGUN-JAIN, a 3rd yr undergrad student currently getting hands wet in OPEN-SOURCE
@@ -21,14 +22,17 @@
 ###  **📫 How to reach me:** 
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://in.linkedin.com/in/phagun-jain-88b532190" >
-    <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px"></a>
+    <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="26px"></a>
  &nbsp; &nbsp; &nbsp;<a href="https://dev.to/phagunjain">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Community Profile" height="30" width="30" >
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PHAGUN JAIN's DEV Community Profile" height="26" width="26" >
 </a>
- &nbsp; &nbsp; &nbsp;<a href="#"><img alt="Phagun's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="22px" ></a><br>   
+ &nbsp; &nbsp; &nbsp;<a href="#"><img alt="Phagun's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="26px" ></a>
+&nbsp; &nbsp; &nbsp;<a href="https://twitter.com/phagun_jain" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;" width="26px">
+</a>
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
---
+---
 
 
 ## 🛠️ **Languages & Tools:**
@@ -52,7 +56,7 @@
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&amp&logo=figma&logoColor=white&color=FFD700)
 
 
-
+---
 
 <details>
   <summary> <b>📈 Github Stats:</b></summary>
