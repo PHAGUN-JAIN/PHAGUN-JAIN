@@ -3,7 +3,7 @@
 
 ## *Hi there! 👋*
 
-### 👋 Hi, I'm Phagun Jain, a passionate software engineer, moving 1 step at a 
+### 👋 Hi, I'm Phagun Jain, a passionate software engineer, moving 1 step at a time
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
 🌱 I’m currently learning Back-end development <br>
