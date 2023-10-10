@@ -3,7 +3,7 @@
 
 ## *Hi there! 👋*
 
-### This is PHAGUN-JAIN, a 3rd yr undergrad student currently getting hands wet in OPEN-SOURCE
+### 👋 Hi, I'm Phagun Jain, a passionate software engineer, moving 1 step at a 
 <img align="right" width=40% src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif">
 
 🌱 I’m currently learning Back-end development <br>
@@ -19,7 +19,7 @@
    <br> -->
   &nbsp; &nbsp; &nbsp;  want to see best website on web [visit here](https://best-website-on-web.happylittletoad.repl.co/)
   &nbsp; &nbsp; &nbsp;  [what is this website?](https://www.google.com/search?client=firefox-b-d&q=what+is+rickrolling)
-###  **📫 How to reach me:** 
+<!-- ###  **📫 How to reach me:** 
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://in.linkedin.com/in/phagun-jain-88b532190" >
     <img alt="Phagun's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="26px"></a>
@@ -29,7 +29,7 @@
  &nbsp; &nbsp; &nbsp;<a href="#"><img alt="Phagun's Discord" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width:100%;" width="26px" ></a>
 &nbsp; &nbsp; &nbsp;<a href="https://twitter.com/phagun_jain" rel="nofollow">
   <img src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;" width="26px">
-</a>
+</a> -->
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 ---
